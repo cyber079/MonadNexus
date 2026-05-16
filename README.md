@@ -141,13 +141,3 @@ Currently, `simpleRoll()` uses `block.prevrandao` for randomness. This is perfec
 
 ---
 
-## 🏆 Hackathon Pitch Tips
-
-1. **The Live Demo Flow:** Connect Wallet ➡️ Roll for an item ➡️ Show it instantly in inventory ➡️ List it on the market ➡️ Buy it from a second wallet.
-2. **Showcase the Speed:** Judges love to see two browser windows open side-by-side. Execute a trade between wallets and show how fast Monad resolves the transaction compared to legacy L1s.
-3. **The Narrative:** Emphasize the true value prop: *"No centralized server or platform can ban players from trading their assets."*
-4. **Stretch Goal Idea:** Add item stats (Attack/Defense) and a simple automated battle system utilizing the on-chain item IDs.
-
-```
-
-```
